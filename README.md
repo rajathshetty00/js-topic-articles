@@ -9,4 +9,8 @@
   <li>
   <a href = "https://dev.to/bionicjulia/deeper-dive-into-react-usememo-2nj1">useMemo hook and when to use it</a>
   </li>
+  <li>
+  <a href = "https://bionicjulia.com/blog/deeper-dive-into-react-memo">Deep dive in to React.memo</a>
+  </li>
+
 

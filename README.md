@@ -5,4 +5,8 @@
 </li>
 <li>
   <a href = "https://blog.sessionstack.com/how-javascript-works-deep-dive-into-call-apply-and-bind-415f6729c902">Deep diving call, apply and bind</a>
+  </li>  
+  <li>
+  <a href = "https://dev.to/bionicjulia/deeper-dive-into-react-usememo-2nj1">useMemo hook and when to use it</a>
   </li>
+

@@ -12,5 +12,12 @@
   <li>
   <a href = "https://bionicjulia.com/blog/deeper-dive-into-react-memo">Deep dive in to React.memo</a>
   </li>
+  
+  <li>
+  <a href = "https://blog.bitsrc.io/automatic-batching-in-react-18-what-you-should-know-d50141dc096e">Automatic Batching in React 18</a>
+  </li>
+  
+  
+  
 
 

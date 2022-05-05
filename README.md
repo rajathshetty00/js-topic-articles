@@ -17,6 +17,10 @@
   <a href = "https://blog.bitsrc.io/automatic-batching-in-react-18-what-you-should-know-d50141dc096e">Automatic Batching in React 18</a>
   </li>
   
+  <li>
+  <a href = "https://dev.to/hellonehha/system-design-guide-for-front-end-developers-5fkl">System Design Guide for Frontend Dev</a>
+  </li>
+  
   
   
 

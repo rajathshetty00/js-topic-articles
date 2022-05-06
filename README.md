@@ -23,7 +23,7 @@
   
   
   <li>
-  <a href = "https://codesandbox.io/embed/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/18-hook-flow?         fontsize=14&hidenavigation=1&theme=dark">React flow analysis</a>
+  <a href = "https://codesandbox.io/embed/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/18-hook-flow?         fontsize=14&hidenavigation=1&theme=dark">React rendering deep dive</a>
   </li>
   
   

@@ -30,6 +30,10 @@
    <a href = "https://medium.com/@rafaelvidaurre/truly-understanding-async-await-491dd580500e">Understanding async/await</a>
   </li>
   
+  <li>
+   <a href = "https://blog.logrocket.com/how-browser-rendering-works-behind-scenes/#:~:text=LogRocket%20is%20like%20a%20DVR,exactly%20what%20a%20user%20experienced.">Deep dive into browser rendering</a>
+  </li>
+  
   
 
 

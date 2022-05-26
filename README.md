@@ -34,7 +34,13 @@
    <a href = "https://blog.logrocket.com/how-browser-rendering-works-behind-scenes/#:~:text=LogRocket%20is%20like%20a%20DVR,exactly%20what%20a%20user%20experienced.">Deep dive into browser rendering</a>
   </li>
   
+  <li>
+   <a href = "https://levelup.gitconnected.com/freedom-from-create-react-app-how-to-create-react-apps-without-cra-27fadeb79c82">Create React App from scratch</a>
+  </li>
   
+  
+
+
 
 
 

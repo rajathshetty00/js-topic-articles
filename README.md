@@ -38,6 +38,15 @@
    <a href = "https://levelup.gitconnected.com/freedom-from-create-react-app-how-to-create-react-apps-without-cra-27fadeb79c82">Create React App from scratch</a>
   </li>
   
+   <li>
+   <a href = "https://javascript.info/event-delegation">Event delegation</a>
+  </li>
+  
+  
+  
+  
+  
+  
   
 
 
